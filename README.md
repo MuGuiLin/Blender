@@ -73,6 +73,10 @@ Ctrl + B 倒角 （滑动滚轮细分）
 
 Ctrl + R 环切，
 
+Ctrl + J 合并物体
+
+
+
 
 
 Ctrl + Z 撤消，Ctrl + Shift + Z 重做
@@ -81,7 +85,9 @@ Ctrl + Z 撤消，Ctrl + Shift + Z 重做
 
 Shift + A 添加网络
 
-Shift + D 复制 后可配合 G、S、R 使用
+Shift + D 复制物体 后可配合 G、S、R 使用
+
+Alt + D 关联复制物体
 
 Shift + H 独立显示选中项，Alt + H 恢复全部显示
 
