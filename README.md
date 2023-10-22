@@ -1,6 +1,6 @@
 # Blender
 
-[Blender官网](https://www.blender.org/)、[下载地址](https://www.blender.org/download/)
+[Blender官网](https://www.blender.org/)、[下载地址](https://www.blender.org/download/)、[glb / glTF 查看器 (muguilin.com)](https://demo.muguilin.com/mu-gltf-viewer/)
 
 >  Blender是一款免费的三维图形软件，拥有强大的建模、动画、渲染和视觉效果功能。
 >
@@ -19,9 +19,9 @@
 >  
 >
 
-## 常用快捷键-多边形
+## 常用快捷键
 
-> 多边形
+
 
 ~ 视图查看、数字键：													
 
@@ -31,11 +31,7 @@
 
 ​											1摄像机视图，5 正交视图 / 透视图，3查看所选
 
-
-
-
-
-Tab 编辑模式切换（进入编辑模式 数字键：1点操作，2线操作，3面操作）
+Tab 视图模式 / 编辑模式 的切换（进入编辑模式 数字键：1点操作，2线操作，3面操作）
 
 A 全选，Ctrl + I 反选
 
@@ -45,11 +41,11 @@ I 内插面
 
 X 删除
 
+M 合并，Alt + M 拆分
+
+P 分离
+
 N 显示物体相关信息
-
-
-
-Alt + Z 透视图
 
 
 
@@ -61,13 +57,7 @@ S 缩放 x => 在x方向上缩放， y => 在y方向上缩放， z => 在z方向
 
 
 
-M 合并，Alt + M 拆分
-
-P 分享
-
-
-
-Ctrl + A 应用 （全部变换，增量变换）
+Ctrl + A 应用 （全部变换，增量变换）注：在G、R、S操作后记得先应用 再做其他如 I 内插面等
 
 Ctrl + B 倒角 （滑动滚轮细分）
 
@@ -77,9 +67,9 @@ Ctrl + J 合并物体
 
 
 
-
-
 Ctrl + Z 撤消，Ctrl + Shift + Z 重做
+
+Alt + Z 透视图
 
 
 
@@ -91,7 +81,7 @@ Alt + D 关联复制物体
 
 Shift + H 独立显示选中项，Alt + H 恢复全部显示
 
-Shift + 鼠标滚轮 + 拖动  称动视图
+Shift + 鼠标滚轮 + 拖动  移动视图
 
 
 
