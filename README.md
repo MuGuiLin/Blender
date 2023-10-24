@@ -63,7 +63,7 @@ Ctrl + A 应用 （全部变换，增量变换）注：在G、R、S操作后记�
 
 Ctrl + B 倒角 （滑动滚轮细分）
 
-Ctrl + R 环切，
+Ctrl + R 环切，Ctrl + Shift + R  偏移环切边（注：需要先选中一条边后 才能使用哦！！）
 
 Ctrl + J 合并物体
 
@@ -77,7 +77,11 @@ Alt + Z 透视图
 
 Shift + A 添加网络
 
+Shift + C 3D游标归位
+
 Shift + D 复制物体 后可配合 G、S、R 使用
+
+
 
 Alt + D 关联复制物体
 
